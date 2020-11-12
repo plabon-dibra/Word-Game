@@ -1,0 +1,35 @@
+                W E L C O M E        T O         W O R D         G A M E !   
+
+
+                                  GAMES INSTRUCTIONS
+
+    * There   are   two  Players,  Firstly   need  to   give   thier   names.
+
+    
+    * How to play?
+    ______________The game start with the turn of first person,
+    then second, again first and so on.
+
+
+    * Taking input:
+    _______________Enter two integers "Row and Column"(0<Row<=10,0<column<=15) 
+    then  input  a "Character" to  create a word
+    and also have to enter a 'String' which word considered. 
+
+
+    * If the input word matches with any word from file and find the pattern in the matrix then the player will have points
+    Otherwise the player will have not point.
+
+
+    * All the input will be "small case" letter.
+
+
+    * If anytime want to end the game , Please enter "# # # #";
+
+
+    * Points Distribution:
+    ______________________Points will be count with       "the length of word"
+    The word have to "Up to Down" or "Left to Right" (Horaizontal or vertically)
+
+    
+    -------------------------------------------------------Thank You !-----------------------------------------------------
